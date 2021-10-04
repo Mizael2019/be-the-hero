@@ -40,7 +40,7 @@ export default function Logon() {
           <h1>Faça seu logon</h1>
 
           <input 
-            placeholder="Sua ID"
+            placeholder="Seu ID"
             value={id}
             onChange={e => setId(e.target.value)}
           />
