@@ -35,7 +35,7 @@ async  function handleRegister(e) {
       history.push('/');
 
     } catch (err) {
-      alert('Erro no cadastro, tente novamente.');
+      alert('Erro no cadastro, por favor tente novamente.');
     }
   }
 

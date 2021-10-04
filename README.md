@@ -1,4 +1,4 @@
-<p align="center"><img src="frontend/src/assets/heroes.png" width="50%"/></p>
+<p align="center"><img src="frontend/src/assets/heroes.png" width="40%"/></p>
 
 <h1 align="center">Be The Hero</h1>
 <p align="center">Projeto desenvolvido durante a <i>Semana OmniStack 11, da RocketSeat</i></p>
@@ -27,13 +27,13 @@ Qualquer pessoa com acesso ao aplicativo pode visualizar os casos registrados pe
 ## Para executar o projeto
 ```
 cd backend
-yarn start
+yarn start ou npm start
 
 cd frontend
-yarn start
+yarn start ou npm start
 
 cd mobile 
-yarn start
+yarn start ou npm start
 
 ```
 > Obs.: caso esteja executando o projeto mobile em seu dispositivo físico, insira o IP da máquina ou servidor em que o backend está sendo executado, no arquivo `mobile/src/services/api.js` 
@@ -111,6 +111,4 @@ yarn start
 - StyleSheet, StyleSheet.create
 - createStackNavigator (react-navigation/stack)
 
-
 ------------
-
