@@ -37,7 +37,7 @@ export default function Logon() {
         <img src={logoImg} alt="Be The Hero " />
 
         <form onSubmit={ handleLogin }>
-          <h1>Faça seu logon</h1>
+          <h1>Faça seu logon!</h1>
 
           <input 
             placeholder="Seu ID"
